@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sdmpxs.github.io/snippets-vss266/sitemap.xml
